@@ -1,0 +1,24 @@
+{
+  "name": "kodemia-mentors-api",
+  "version": "1.0.0",
+  "description": "API mentors kodemia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nitzeli/kodemia-mentors.git"
+  },
+  "keywords": [
+    "kodemia",
+    "api",
+    "express"
+  ],
+  "author": "@Nitzeli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nitzeli/kodemia-mentors/issues"
+  },
+  "homepage": "https://github.com/Nitzeli/kodemia-mentors#readme"
+}
