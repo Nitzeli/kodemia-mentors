@@ -20,5 +20,12 @@
   "bugs": {
     "url": "https://github.com/Nitzeli/kodemia-mentors/issues"
   },
-  "homepage": "https://github.com/Nitzeli/kodemia-mentors#readme"
+  "homepage": "https://github.com/Nitzeli/kodemia-mentors#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.24"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
 }
